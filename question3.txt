@@ -1,0 +1,32 @@
+students           
+-------------------
+rollno				
+degree
+year
+hostel/dayscholars
+
+
+Booking
+--------------------
+from Town
+to Town
+
+Bus Booking
+--------------------
+about agencies
+buses
+cost of the buses
+selection of seats
+adding and removing seats
+
+Payment
+--------------------
+payment gateway
+
+Report
+--------------------
+location of the trip
+total no of students booked
+how many hostel/dayscholars
+payment details paid/not paid
+
